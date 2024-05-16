@@ -1,0 +1,290 @@
+@media (max-width :768px){
+
+
+
+    .headersection{
+        display: none;
+    }
+    .tab-head{
+        display: contents;
+        width: auto;
+        height: auto;
+
+    }
+    .navbar {
+        width: auto;
+        height: auto;
+        background: black;
+        
+    }
+    .navbar-brand{
+        margin-left: 2rem;
+    }
+    .nav-item{
+        color: #fff;
+    }
+    .navbar-toggler-icon{
+        background-color: #fff;
+    }
+   
+    
+    .navbar a {
+        
+        color: #fff;
+    }
+    .location{
+        width: 60%;
+    }
+  
+    
+    
+    .ride-section{
+        display: block;
+        align-items: left;
+        padding-left: 1rem;
+        width: auto;
+    }
+    
+    .ride-section .ride-right{
+       align-items: left;
+       display: grid;
+       padding-left: 1rem;
+       width: auto;
+        
+    }
+    .ride-section .ride-right h1{
+        font-size: 20px;
+    }
+    .ride-section .ride-right img{
+        align-items: center;
+        padding-left: 1rem;
+        width: 95%;
+        
+    }
+    .ride-section .ride-left{
+       padding-left: 1rem;
+        font-size: medium;
+        align-items: initial;
+        width: 100%;
+    }
+    .ride-section .ride-left h1{
+        font-size: 20px;
+    }
+   .started-container {
+    display: flex;
+    flex-direction: column;
+    padding-left: 1rem;
+    font-size: 100%;
+    
+    width: auto;
+    
+   }
+   .started-right h1{
+    font-size: 20px;
+    
+   }
+   .started-left{
+    margin-right: 2rem;
+   }
+   .started-right{
+   display: inline;
+   }
+   .started-left h1{
+    font-size: 20px;
+   }
+   .started-left img{
+    padding-right: 1rem;
+    width: 70%;
+    margin-left: 160px;
+   }
+   .started-container .ride-left h1{
+    font-size: 10px;
+   }
+
+   .started-container .ride-right img{
+    margin: 0;
+    padding: 0;
+    margin-left: 14px;
+    width: 66%;
+}
+   
+   .started-container .ride-right{
+    font-size: medium;
+   }
+    .started-btns{
+        width: auto;
+        height: auto;
+    }
+   .row{
+    font-size: 80%;
+
+   }
+   .qr-section .row{
+    height: auto;
+    width: auto;
+    display: none;
+   }
+   .qr-left{
+    display: grid;
+   }
+   .qr-right{
+    display: grid;
+    margin-left: 9.5rem;
+   }
+   .footer{
+    width: 100%;
+    align-items: center;
+    padding: 1rem;
+   }
+   
+
+}
+@media (max-width :576px){
+
+
+
+
+
+    .headersection{
+        display: none;
+    }
+    .tab-head{
+        display: contents;
+        width: auto;
+        height: auto;
+
+    }
+    .navbar {
+        width: auto;
+        height: 80%;
+        background: black;
+        
+    }
+    .navbar-brand{
+        margin-left: 2rem;
+    }
+    .nav-item{
+        color: #fff;
+    }
+    .navbar-toggler-icon{
+        background-color: #fff;
+        
+    }
+   
+    
+    .navbar a {
+        
+        color: #fff;
+    }
+  
+    .location {
+        width: 60%;
+    }
+    
+    .ride-section{
+        display: block;
+        align-items: left;
+        padding-left: 1rem;
+        width: auto;
+    }
+    
+    .ride-section .ride-right{
+       align-items: left;
+       display: grid;
+       padding-left: 1rem;
+       width: auto;
+       
+        
+    }
+    .ride-right h1{
+        font-size: 10px;
+    }
+    .ride-right img{
+        align-items: center;
+        padding-left: 1rem;
+        width: 95%;
+        
+    }
+    
+    .ride-section .ride-left{
+       padding-left: 1rem;
+        font-size: smaller;
+        align-items: initial;
+        width: 100%;
+    }
+    .ride-section .ride-left p {
+        font-size: x-small;
+
+    }
+    .ride-left h1{
+        font-size: 18px;
+    }
+    .started-container .ride-left p {
+        font-size: x-small;
+
+    }
+    .started-container .started-right p {
+        font-size: x-small;
+    }
+
+   .started-container {
+    display: flex;
+    flex-direction: column;
+    padding-left: 1rem;
+    font-size: 18px;
+    
+    
+    
+   }
+   .started-right h1{
+    font-size: 18px;
+    
+   }
+   .started-left{
+    margin-right: 2rem;
+   }
+   .started-right{
+   display: inline;
+   
+   }
+   .started-left h1{
+    font-size: 10px;
+   }
+   .started-container .ride-left h1{
+    font-size: 18px;
+   }
+   .started-container .ride-right img{
+    margin: 0;
+    padding: 0;
+    margin-left: 31px;
+        width: 122%;
+    }
+   
+   
+    
+   
+   .row{
+    font-size: 100%;
+
+   }
+   .qr-section .row{
+    height: auto;
+    width: auto;
+    display: none;
+   }
+   .qr-left{
+    display: grid;
+   }
+   .qr-right{
+    display: grid;
+    margin-left: 9.5rem;
+   }
+   .footer{
+    width: auto;
+    align-items: center;
+    padding: 1rem;
+   }
+
+
+
+}
